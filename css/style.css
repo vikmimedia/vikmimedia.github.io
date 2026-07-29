@@ -3,12 +3,18 @@
    =========================== */
 
 :root{
-    --primary:#0d6efd;
-    --primary-dark:#0b5ed7;
-    --bg:#f8f9fa;
-    --text:#212529;
-    --muted:#6c757d;
-    --radius:16px;
+    --primary:#2563eb;
+    --primary-dark:#1d4ed8;
+
+    --background:#f8fafc;
+
+    --text:#1e293b;
+
+    --muted:#64748b;
+
+    --white:#ffffff;
+
+    --radius:18px;
 }
 
 html{
