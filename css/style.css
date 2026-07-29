@@ -44,7 +44,13 @@ body{
    =========================== */
 
 .hero{
-    padding:90px 0;
+    background:linear-gradient(
+        180deg,
+        #ffffff,
+        #eef5ff
+    );
+
+    padding:100px 0;
 }
 
 .hero img{
